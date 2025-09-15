@@ -1,28 +1,39 @@
-# 365 Days of Code – DSA Challenge
+365 Days of Code – DSA Challenge
 
-This repository documents my daily commitment to solving Data Structures and Algorithms (DSA) problems for 365 days.  
-Each day I’ll upload at least one solution with explanation.
+This repository is dedicated to a year-long commitment of solving Data Structures and Algorithms (DSA) problems every day. The purpose is to strengthen problem-solving skills, improve coding efficiency, and build a solid foundation for technical interviews.
 
----
+Repository Structure
 
-## 📊 Progress Tracker
+Each folder is named by Day-XX.
 
-- ✅ Day 1 – Two Sum (LeetCode)
-- ✅ Day 2 – Reverse Linked List
-- ✅ Day 3 – Binary Search
-- 🔲 Day 4 – Pending
+Each folder contains one or more solutions with clean, well-documented code.
 
----
+Solutions are implemented in Java, Python, or C++ depending on the problem.
 
-## 🚀 Goals
-- Build strong problem-solving skills
-- Prepare for technical interviews
-- Stay consistent and grow daily
-- Fill my GitHub contribution graph with meaningful commits
+Objectives
 
----
+Develop consistency through daily practice
 
-## 🛠 Languages Used
-- Java  
-- Python  
-- C++  
+Enhance algorithmic thinking and problem-solving strategies
+
+Gain mastery over common data structures and algorithms
+
+Prepare effectively for coding interviews and competitive programming
+
+Tech Stack
+
+Languages: Java, Python, C++
+
+Platforms: LeetCode, HackerRank, Codeforces, GeeksforGeeks
+
+Example Layout
+365-days-of-code/
+│
+├── Day-01/
+│   └── two-sum.java
+│
+├── Day-02/
+│   └── reverse-linked-list.py
+│
+├── Day-03/
+│   └── binary-search.cpp
