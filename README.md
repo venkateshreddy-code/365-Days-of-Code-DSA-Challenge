@@ -29,21 +29,5 @@ This repository is dedicated to a year-long commitment of solving **Data Structu
 
 ---
 
-## Example Layout
-
-```
-365-days-of-code/
-│
-├── Day-01/
-│   └── two-sum.java
-│
-├── Day-02/
-│   └── reverse-linked-list.py
-│
-├── Day-03/
-│   └── binary-search.cpp
-```
 
 
-
-Do you want me to also prepare a **Day-01 starter solution (e.g., Two Sum in Java or Python)** so you can commit it as your very first push?
