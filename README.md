@@ -1,33 +1,43 @@
-
 # 365 Days of Code – DSA Challenge
 
-This repository is dedicated to a year-long commitment of solving **Data Structures and Algorithms (DSA)** problems every day. The purpose is to strengthen problem-solving skills, improve coding efficiency, and build a solid foundation for technical interviews.
+This repository documents my 1-year commitment to solving **Data Structures and Algorithms (DSA)** problems every day.  
+The purpose is to strengthen problem-solving skills, improve coding efficiency, and build a strong foundation for **coding interviews**.
 
 ---
 
-## Repository Structure
+## 🎯 Goals
 
-* Each folder is named by **Day-XX**.
-* Each folder contains one or more solutions with clean, well-documented code.
-* Solutions are implemented in **Java, Python, or C++** depending on the problem.
-
----
-
-## Objectives
-
-* Develop consistency through daily practice
-* Enhance algorithmic thinking and problem-solving strategies
-* Gain mastery over common data structures and algorithms
-* Prepare effectively for coding interviews and competitive programming
+- Solve at least **one DSA problem every day for 365 days**
+- Write **clean, readable, and well-structured Java code**
+- Practice **time & space complexity analysis**
+- Build a solid **interview-ready problem bank**
+- Stay consistent and track my progress publicly
 
 ---
 
-## Tech Stack
+## 🗂 Repository Structure
 
-* Languages: Java, Python, C++
-* Platforms: LeetCode, HackerRank, Codeforces, GeeksforGeeks
+Each file in the `main` branch represents a single problem solution implemented in Java.
 
----
+Example files:
 
+- `ContainsDuplicates.java`
+- `TwoSum.java`
+- `Valid-Anagram.java`
+- `GroupAnagrams.java`
+- `TopKFrequentElements.java`
+- `ProductofArrayExceptSelf.java`
+- `Encode and Decode Strings.java`
 
+General pattern:
 
+```text
+.
+├── ContainsDuplicates.java
+├── Encode and Decode Strings.java
+├── GroupAnagrams.java
+├── ProductofArrayExceptSelf.java
+├── TopKFrequentElements.java
+├── TwoSum.java
+├── Valid-Anagram.java
+└── README.md
