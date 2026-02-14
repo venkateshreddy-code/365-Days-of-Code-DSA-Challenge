@@ -89,5 +89,5 @@ If you find this repository useful:
 
 ---
 
-### 🔥 *365 days. One problem a day. No excuses.*
+
 
